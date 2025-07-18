@@ -1,6 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/ab2f5319ed073c542e03914f8ae6c0fda029ee1e/Actions/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
-  "templateSha": "e74753260f6cc4bc3009c414b8e84b328cb282c9"
+  "templateUrl": "https://github.com/mazhelez/Custom-AL-Go-PTE@main",
+  "templateSha": "34628bb8b8f543d2c9d13c738413dc0fdd0fb27c"
 }
