@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/ab2f5319ed073c542e03914f8ae6c0fda029ee1e/Actions/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/mazhelez/Custom-AL-Go-PTE@preview",
-  "templateSha": "31036febbf16d55fa8d14aa8eec7c8316c39d96f"
+  "templateSha": "b1af0f85744d589d72210157a2148021c943cdf1"
 }
